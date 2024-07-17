@@ -1,0 +1,19 @@
+.Messages{
+    background-color: grey;
+    height: 500px;
+    width: 600px;
+    list-style-type: none; /* Remove bullet points from the list */
+    padding: 0; /* Remove padding */
+}
+
+
+
+.text{
+    margin-top: 25px;
+    width: 450px;
+}
+.send{
+    width: 150px;
+    background-color: brown;
+    margin-left: 10px;
+}
